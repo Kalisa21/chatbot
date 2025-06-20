@@ -18,7 +18,7 @@ This project aims to improve access to reliable healthcare information by offeri
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 - **Model**: GPT-2 (124M parameters)  
 - **Training Framework**: Hugging Face Transformers (PyTorch)
