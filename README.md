@@ -4,13 +4,13 @@ A domain-specific generative chatbot designed to answer healthcare-related quest
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project aims to improve access to reliable healthcare information by offering an AI-powered chatbot capable of answering medical queries with contextual relevance. The model is trained on the `llama3_medquad_instruct_dataset` from Hugging Face, leveraging GPT-2 for high-quality text generation.
 
 ---
 
-## 🔍 Dataset
+##  Dataset
 
 - **Name**: `llama3_medquad_instruct_dataset`  
 - **Source**: [Hugging Face Datasets](https://huggingface.co/datasets)  
@@ -18,14 +18,14 @@ This project aims to improve access to reliable healthcare information by offeri
 
 ---
 
-## 🏗️ Architecture
+## 🏗 Architecture
 
 - **Model**: GPT-2 (124M parameters)  
 - **Training Framework**: Hugging Face Transformers (PyTorch)
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Accurate and fluent healthcare-related responses  
 - Zero-shot filtering for irrelevant queries  
@@ -35,7 +35,7 @@ This project aims to improve access to reliable healthcare information by offeri
 
 ---
 
-## 🧪 Performance Metrics
+##  Performance Metrics
 
 | Metric     | Score |
 |------------|-------|
@@ -45,7 +45,7 @@ This project aims to improve access to reliable healthcare information by offeri
 
 ---
 
-## 💬 Example Interactions
+##  Example Interactions
 
 **Q:** What is the treatment for type 2 diabetes?  
 **A:** Type 2 diabetes is typically managed with lifestyle changes, including diet and exercise, along with oral medications like metformin...
@@ -55,7 +55,7 @@ This project aims to improve access to reliable healthcare information by offeri
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ### Backend (FastAPI)
 ```bash
@@ -73,7 +73,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── backend/
@@ -89,26 +89,26 @@ npm run dev
 
 ---
 
-## 📹 Demo Video
+##  Demo Video
 
 *Coming soon...*
 
 ---
 
-## 📜 License
+##  License
 
 This project is for educational and research purposes only. It is not intended for clinical use.
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
-- [Your Name]
+- willy kalisa
 - Dataset from Hugging Face
 - Model from OpenAI (GPT-2)
 
 ---
 
-## 📬 Contact
+##  Contact
 
-For questions or collaboration: [your_email@example.com]
+For questions or collaboration: [w.kalisa@alustudent.com
