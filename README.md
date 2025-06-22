@@ -105,9 +105,6 @@ This project is for educational and research purposes only. It is not intended f
 ##  Contributors
 
 - willy kalisa
-- Dataset from Hugging Face
-- Model from OpenAI (GPT-2)
-
 ---
 
 ##  Contact
