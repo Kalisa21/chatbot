@@ -1,4 +1,5 @@
 # Healthcare Chatbot using GPT-2
+![image](https://github.com/user-attachments/assets/adaa443d-5793-4553-b5e5-56a85fd7b0f2)
 
 A domain-specific generative chatbot designed to answer healthcare-related questions using a fine-tuned GPT-2 model. Built with a FastAPI backend and React + Tailwind frontend.
 
