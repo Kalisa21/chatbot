@@ -88,9 +88,6 @@ npm run dev
 
 UI repository: https://github.com/Kalisa21/botUI.git 
 
-##  Demo Video
-
-*Coming soon...*
 
 ---
 
