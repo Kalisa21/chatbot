@@ -80,15 +80,13 @@ npm run dev
 ├── backend/
 │   └── main.py
 │   └── model/
-├── frontend/
-│   └── components/, pages/, App.jsx
 ├── data/
 │   └── llama3_medquad_instruct_dataset.json
 ├── evaluation/
 │   └── metrics.py
 ```
 
----
+UI repository: https://github.com/Kalisa21/botUI.git 
 
 ##  Demo Video
 
